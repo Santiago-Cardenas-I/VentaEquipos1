@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|c:\\users\\carde\\downloads\\papisantiventaequipos-main\\papisantiventaequipos-main\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|solutionrelative:default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\informeventas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|solutionrelative:informeventas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\informeventas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|solutionrelative:informeventas.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|solutionrelative:estilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|c:\\users\\carde\\downloads\\papisantiventaequipos-main\\papisantiventaequipos-main\\agregarequipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F9E7F8AD-4C12-47FC-B4D7-0A928296EA74}|GestionDeVentasEquipos.csproj|solutionrelative:agregarequipo.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgregarEquipo.aspx",
+              "DocumentMoniker": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\AgregarEquipo.aspx",
+              "RelativeDocumentMoniker": "AgregarEquipo.aspx",
+              "ToolTip": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\AgregarEquipo.aspx",
+              "RelativeToolTip": "AgregarEquipo.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-26T22:21:23.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "estilos.css",
+              "DocumentMoniker": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\estilos.css",
+              "RelativeDocumentMoniker": "estilos.css",
+              "ToolTip": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\estilos.css",
+              "RelativeToolTip": "estilos.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T21:55:00.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InformeVentas.css",
+              "DocumentMoniker": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\InformeVentas.css",
+              "RelativeDocumentMoniker": "InformeVentas.css",
+              "ToolTip": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\InformeVentas.css",
+              "RelativeToolTip": "InformeVentas.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-26T21:48:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InformeVentas.aspx",
+              "DocumentMoniker": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\InformeVentas.aspx",
+              "RelativeDocumentMoniker": "InformeVentas.aspx",
+              "ToolTip": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\InformeVentas.aspx",
+              "RelativeToolTip": "InformeVentas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-26T21:48:32.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\Default.aspx",
+              "RelativeDocumentMoniker": "Default.aspx",
+              "ToolTip": "C:\\Users\\carde\\Downloads\\PapiSantiVentaEquipos-main\\PapiSantiVentaEquipos-main\\Default.aspx",
+              "RelativeToolTip": "Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-04-26T03:19:18.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
